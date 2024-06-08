@@ -1,5 +1,29 @@
 {
+    "prettier.semi": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
     "cSpell.words": [
-        "linebreak"
+        "голосовали",
+        "найдено",
+        "Ничего",
+        "пошло",
+        "antd",
+        "Ccircle",
+        "Cpath",
+        "Csvg",
+        "gjuxe",
+        "Glfcm",
+        "Ijoxf",
+        "LHAH",
+        "linebreak",
+        "Svue",
+        "todoapp",
+        "Todos",
+        "toogle"
     ]
 }
